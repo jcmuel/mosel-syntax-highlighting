@@ -1,2 +1,2 @@
-# mosel-syntax-highlighting
-Syntax highlighting for FICO Xpress Mosel in JetBrains CLion and Notepad++
+# Mosel Syntax Highlighting
+This is a repository for FICO Xpress Mosel syntax highlighting configuration files for JetBrains CLion and Notepad++.
