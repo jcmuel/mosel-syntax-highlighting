@@ -5,11 +5,11 @@ for JetBrains IntelliJ Platform (IDEA, CLion, PyCharm, GoLand, ...) and Notepad+
 
 ### JetBrains IntelliJ Platform setup
 - Go to *File* -> *Import Settings...*.
-- Select the file *IntelliJ Platform Mosel syntax highlighting.jar*.
+- Select the file *IntelliJ Platform Mosel syntax highlighting.zip*.
 - Select *File types (schemes)* and *OK*.
 - Select *OK* to restart IntelliJ and reload the settings.
 
-Tested with CLion 2018.3, PyCharm 2018.3, and GoLand 2018.3.
+Tested with CLion 2019.2.5.
 
 ### Notepad++ setup
 - Go to *Language* -> *Define your language...*.
@@ -19,4 +19,4 @@ Tested with CLion 2018.3, PyCharm 2018.3, and GoLand 2018.3.
 - You can also use Mosel syntax highlighting for other file extensions by
   manually selecting *Language* -> *Mosel*.
 
-Tested with Notepad++ 7.5.9.
+Tested with Notepad++ 7.7.1.
